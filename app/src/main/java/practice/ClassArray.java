@@ -21,7 +21,6 @@ public class ClassArray {
   }
 
   static MemberInfo createInfo(String name, int age, int height, int weight) {
-
     MemberInfo info = new MemberInfo();
 
     info.name = name;
