@@ -38,6 +38,36 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.0/61667950f4b19230f0ad83fef77eb7781e235d82/jackson-datatype-jsr310-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.0/4c143877fc733befe6189151c8b95d84acd06941/jackson-datatype-jsr310-2.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.0/1c78424885821d9d76dea840373e4c6ec3194bfb/jackson-annotations-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.0/15be89db6609bd6fda3dc309bacf0318a312c03f/jackson-annotations-2.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.0/b4b164d5dc0ea55dea8fa965ea26d1a493f6c0cd/jackson-datatype-jdk8-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.0/6d82a502e03f61d6dc6e47e5f7d6168141419c92/jackson-datatype-jdk8-2.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.0/250fd17d2ca4e878354f0663994646c2d0978b6/jackson-module-parameter-names-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.0/62a5e3b6cc5aacc0ff2354053f3cc2a7821dfa9/jackson-module-parameter-names-2.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.0/26783a31fe3e4b63f2799dda9266747d0621ffc6/jackson-core-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.0/e957ec5442966e69cef543927bdc80e5426968bb/jackson-core-2.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.1/3a556489e4a16b4837fd640c46a858c8402a1eb/jackson-databind-2.13.1-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.1/698b2d2b15d9a1b7aae025f1d9f576842285e7f6/jackson-databind-2.13.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.6.0/f72a51757bfdac1ef6561ac2c3e0250a12f5b94d/spring-boot-starter-2.6.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.6.0/eaa73f531e85b785b1ba27ff0abf6ced47a79e8d/spring-boot-starter-2.6.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -104,36 +134,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.29/3c1e0863032828174271eb0b6a6db726e177db/snakeyaml-1.29-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.29/6d0cdafb2010f1297e574656551d7145240f6e25/snakeyaml-1.29.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.0/61667950f4b19230f0ad83fef77eb7781e235d82/jackson-datatype-jsr310-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.0/4c143877fc733befe6189151c8b95d84acd06941/jackson-datatype-jsr310-2.13.0.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.0/250fd17d2ca4e878354f0663994646c2d0978b6/jackson-module-parameter-names-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.0/62a5e3b6cc5aacc0ff2354053f3cc2a7821dfa9/jackson-module-parameter-names-2.13.0.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.0/1c78424885821d9d76dea840373e4c6ec3194bfb/jackson-annotations-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.0/15be89db6609bd6fda3dc309bacf0318a312c03f/jackson-annotations-2.13.0.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.0/26783a31fe3e4b63f2799dda9266747d0621ffc6/jackson-core-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.0/e957ec5442966e69cef543927bdc80e5426968bb/jackson-core-2.13.0.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.0/b4b164d5dc0ea55dea8fa965ea26d1a493f6c0cd/jackson-datatype-jdk8-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.0/6d82a502e03f61d6dc6e47e5f7d6168141419c92/jackson-datatype-jdk8-2.13.0.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry sourcepath="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.0/531874ca0491bcdee13bc6a4f0fa201d8067366c/jackson-databind-2.13.0-sources.jar" kind="lib" path="C:/Users/YB/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.0/889672a1721d6d85b2834fcd29d3fda92c8c8891/jackson-databind-2.13.0.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
