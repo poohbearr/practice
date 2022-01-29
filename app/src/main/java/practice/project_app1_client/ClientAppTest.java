@@ -8,23 +8,44 @@ public class ClientAppTest {
 
   public static void main(String[] args) throws Exception {
 
-    Socket socket = new Socket("127.0.0.1", 8888);
-    System.out.println("서버와 연결됨!");
+    Scanner keyScan = new Scanner(System.in);
 
-    PrintStream out = new PrintStream(socket.getOutputStream());
-    Scanner in = new Scanner(socket.getInputStream());
+    while (true) {
+      System.out.println("요청(형식: 서버주소/연산자/값1/값2)? ");
+      System.out.print("=> ");
+      String input = keyScan.nextLine();
 
-    out.println("서영범Test");
+      if (input.equals("exit") || input.equals("quit")) {
+        break;
+      }
 
-    String response = in.nextLine();
-    System.out.println("==> " + response);
+      int slashPos = input.indexOf("/");
+      String serverAddress = input.substring(0, slashPos);
+      String queryString = input.substring(slashPos + 1);
 
-    out.close();
-    in.close();
+      Socket socket = new Socket(serverAddress, 8888);
+      System.out.println("서버에 연결");
 
-    socket.close();
-    System.out.println("서버 연결 종료!");
+      PrintStream out = new PrintStream(socket.getOutputStream());
+      Scanner in = new Scanner(socket.getInputStream());
 
+      if (queryString.startsWith("/")) {
+        queryString = queryString.replaceFirst("/", "%2f");
+      }
+
+      out.println(queryString);
+
+      String response = in.nextLine();
+      System.out.println("==>" + response);
+
+      out.close();
+      in.close();
+
+      socket.close();
+      System.out.println("클라 종료!");
+    }
+
+    keyScan.close();
   }
 
 }

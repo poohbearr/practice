@@ -1,4 +1,4 @@
-package practice.project_app1_server;
+package practice.project_app10_server;
 
 import java.net.ServerSocket;
 import java.net.Socket;
