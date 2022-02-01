@@ -42,7 +42,7 @@ public class ClientAppTest {
       in.close();
 
       socket.close();
-      System.out.println("클라 종료!");
+      System.out.println("클라이언트 종료!");
     }
 
     keyScan.close();
