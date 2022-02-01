@@ -36,7 +36,7 @@ public class Worker extends Thread {
         String op = URLDecoder.decode(values[1]);
         int a = Integer.parseInt(values[2]);
         int b = Integer.parseInt(values[3]);
-        System.out.printf("%s, %d, %d\n", op, a, b);
+        System.out.printf("%s, %d, %d \n", op, a, b);
 
         String response = null;
 
