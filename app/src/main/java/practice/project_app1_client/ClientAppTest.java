@@ -44,7 +44,6 @@ public class ClientAppTest {
       socket.close();
       System.out.println("클라이언트 종료!");
     }
-
     keyScan.close();
   }
 
