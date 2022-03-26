@@ -13,9 +13,9 @@ public class ClassArray {
 
     MemberInfo[] arr = new MemberInfo[3];
 
-    arr[0] = createInfo("서영범", 29, 183, 80);
-    arr[1] = createInfo("홍길동", 35, 180, 75);
-    arr[2] = createInfo("김두한", 50, 182, 85);
+    arr[0] = createInfo("서영범1", 29, 183, 80);
+    arr[1] = createInfo("홍길동1", 35, 180, 75);
+    arr[2] = createInfo("김두한1", 50, 182, 85);
 
     printInfo(arr);
   }
