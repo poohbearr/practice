@@ -25,7 +25,7 @@ public class CalculateController {
         response = String.format("%.2f", a / b);
         break;
       default :
-        System.out.println("연산 불가!!!");
+        System.out.println("연산 불가!");
     }
     return response;
   }
