@@ -28,6 +28,7 @@ public class Exam0510 {
     Calculator c4 = MyCalculator::minus;
     Calculator c5 = MyCalculator::multi;
     Calculator c6 = MyCalculator::divide;
+    
 
     System.out.println(c1.compute(1, 2));
     System.out.println(c2.compute(1, 2));
