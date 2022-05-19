@@ -6,7 +6,6 @@ class A {
 
     int a;
     void m1() {}
-
   }
 }
 
