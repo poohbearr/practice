@@ -18,7 +18,6 @@ public class Exam0120Test {
 
 
   public static void main(String[] args) {
-
     Score score = new Score();
 
     score.name = "서영범";
@@ -31,7 +30,4 @@ public class Exam0120Test {
     System.out.printf("%s: %d %d %d %d %.1f",
         score.name, score.kor, score.eng, score.math, score.sum, score.aver);
   }
-
-
-
 }
