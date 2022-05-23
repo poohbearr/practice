@@ -9,8 +9,6 @@ import practice.oop.ex02.util.Calculator;
 // 5) class를 외부 파일로 빼자
 public class Exam0210Test {
 
-
-
   public static void main(String[] args) {
 
     Calculator cal1 = new Calculator();
