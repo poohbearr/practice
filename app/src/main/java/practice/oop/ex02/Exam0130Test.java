@@ -32,6 +32,4 @@ public class Exam0130Test {
         score.name, score.kor, score.eng, score.math, score.sum, score.aver);
   }
 
-
-
 }
