@@ -11,7 +11,6 @@ import static practice.oop.ex03.Member.MEMBER;
 
 public class Exam0160Test {
 
-
   public static void main(String[] args) {
 
     Member m1 = new Member();
