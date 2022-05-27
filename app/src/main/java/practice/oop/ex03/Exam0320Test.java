@@ -44,5 +44,4 @@ public class Exam0320Test {
     System.out.printf("이름: %s, %d, %d, %d, %d, %.1f\n",
         c2.name, c2.kor, c2.eng, c2.math, c2.sum, c2.aver);
   }
-
 }
