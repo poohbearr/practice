@@ -36,5 +36,4 @@ public class Exam0420Test {
         c2.name, c2.kor, c2.eng, c2.math, c2.sum, c2.avg);
 
   }
-
 }
