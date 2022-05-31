@@ -14,5 +14,4 @@ public class Exam1 {
 
     System.out.printf("%d, %d, %d, %d, %d, %d %.1f", c1.kor, c1.eng, c1.math, c1.music, c1.science, c1.sum, c1.aver);
   }
-
 }
