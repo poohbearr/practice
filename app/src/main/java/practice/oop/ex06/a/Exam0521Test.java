@@ -12,7 +12,7 @@ public class Exam0521Test {
     for (Vehicle p : arr) {
       printCar(p);
     }
-  };
+  }
 
   public static void printCar(Vehicle v) {
     System.out.printf("모델: %s\n", v.model);
