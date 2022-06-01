@@ -29,7 +29,6 @@ abstract class Letter{
   public abstract void printHeader();
   public abstract void printFooter();
   public abstract String getSign();
-
 }
 
 class loveLetter extends Letter{
