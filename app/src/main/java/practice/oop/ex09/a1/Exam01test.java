@@ -10,5 +10,4 @@ public class Exam01test {
     b.execute();
     w.execute();
   }
-
 }
