@@ -11,7 +11,6 @@ class A {
 
 public class Exam0111 {
   public static void main(String[] args) {
-
     A outer = new A();
     A.X obj = outer.new X();
 
