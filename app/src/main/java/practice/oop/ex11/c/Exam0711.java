@@ -24,7 +24,6 @@ public class Exam0711 {
   }
 }
 
-
 class Musics1 {
 
   List<String> songs = new ArrayList<>();
