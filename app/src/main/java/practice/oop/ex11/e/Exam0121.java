@@ -8,7 +8,6 @@ public class Exam0121 {
 
   public static void main(String[] args) {
 
-
     A obj = new A() {
       @Override
       void print() {
