@@ -15,7 +15,6 @@ public class Exam0220 {
         System.out.println("constructor");
       }
     };
-
   }
 
 }
