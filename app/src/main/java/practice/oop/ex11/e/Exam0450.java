@@ -64,5 +64,4 @@ public class Exam0450 {
     obj5.print();
 
   }
-
 }
