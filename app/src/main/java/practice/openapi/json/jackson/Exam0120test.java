@@ -14,5 +14,4 @@ public class Exam0120test {
 
     System.out.println(m);
   }
-
 }
