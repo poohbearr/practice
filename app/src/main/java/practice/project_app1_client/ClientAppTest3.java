@@ -26,5 +26,4 @@ public class ClientAppTest3 {
     socket.close();
     System.out.println("서버 연결 종료!");
   }
-
 }
