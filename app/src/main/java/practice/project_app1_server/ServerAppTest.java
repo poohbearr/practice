@@ -18,7 +18,6 @@ public class ServerAppTest {
       worker.start();
     }
 
-
   }
 
 }
