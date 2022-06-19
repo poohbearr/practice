@@ -30,5 +30,4 @@ public class ServerAppTest3 {
     serverSocket.close();
     System.out.println("서버 종료!");
   }
-
 }
