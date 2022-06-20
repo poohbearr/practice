@@ -35,7 +35,6 @@ public class LinkedList {
     node.prev = newNode; // 현재 노드의 앞 노드를 새 노드로 설정.
     newNode.next = node; // 새 노드의 다음 노드를 현재 노드로 설정.
 
-
     size++;
   }
 
