@@ -61,7 +61,6 @@ public class Exam0151test {
       System.out.printf("%s, %d, %s\n", sss.name, sss.age, sss.working ? "재직중" : "실업중");
     }
 
-
   }
 
 }
