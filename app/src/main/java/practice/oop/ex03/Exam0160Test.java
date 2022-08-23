@@ -36,4 +36,3 @@ public class Exam0160Test {
   }
 }
 
-
